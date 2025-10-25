@@ -4,15 +4,15 @@ A comprehensive deep learning project for detecting deepfakes in images and vide
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Training Notebooks](#training-notebooks)
-- [Streamlit Application](#streamlit-application)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technical Details](#technical-details)
-- [Model Architecture](#model-architecture)
-- [Dependencies](#dependencies)
+- [Overview](#-overview)
+- [Project Structure](#-project-structure)
+- [Training Notebooks](#-training-notebooks)
+- [Streamlit Application](#-streamlit-application)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Technical Details](#-technical-details)
+- [Model Architecture](#-model-architecture)
+- [Dependencies](#-dependencies)
 
 ## 🎯 Overview
 
