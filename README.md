@@ -2,6 +2,12 @@
 
 A comprehensive deep learning project for detecting deepfakes in images and videos, featuring both training notebooks and a production-ready Streamlit web application.
 
+## 🌐 Live Application
+
+**Try the app now:** [https://deepfakedetection-56jwajwb5cr7erguh7jwvx.streamlit.app/](https://deepfakedetection-56jwajwb5cr7erguh7jwvx.streamlit.app/)
+
+The live application allows you to upload images or videos and instantly detect if they are deepfakes using advanced AI models.
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
